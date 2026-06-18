@@ -1,0 +1,5 @@
+from app.tools.pdf_tool import read_pdf
+
+text = read_pdf("sample.pdf")
+
+print(text[:1000])
