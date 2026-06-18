@@ -126,6 +126,6 @@ Instead of relying on a single model response, real-world systems use:
 This approach significantly improves flexibility, scalability, and real-world usability of AI applications.
 
 
- Author
+ Author:
 Shathana M  
 AI/ML Developer | LangGraph & LLM Systems
